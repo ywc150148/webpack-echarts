@@ -45,7 +45,7 @@
     "@babel/runtime": "^7.5.5",
     "echarts": "^4.2.1",
     "html-withimg-loader": "^0.1.16",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   },
   "main": "babel.config.js"
 }
